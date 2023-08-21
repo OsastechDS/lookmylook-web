@@ -49,7 +49,7 @@ margin-left: -800px;
     align-items: center;
     justify-content: space-between;
     padding: 9px 20px;
-    box-shadow: 0 0.1rem 0.5rem #d61e1e;
+    box-shadow: 0 0.1rem 0.5rem #BB2649;
     width: 100%;
     background: var(--white);
     transition: all 0.5s;
@@ -57,7 +57,7 @@ margin-left: -800px;
 }
 
 .home{
-    background-color: #c12222;
+    background-color: #BB2649;
     width: 100%;
     height: 100vh;
     display: flex;
